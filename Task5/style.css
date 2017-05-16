@@ -1,0 +1,10 @@
+.recepie {
+  width: 250px;
+}
+.products {
+  border-bottom: 1px solid gray;
+}
+.notes {
+  list-style: none;
+  padding: 0;
+}
